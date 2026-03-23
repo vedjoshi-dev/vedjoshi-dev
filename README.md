@@ -19,6 +19,6 @@ And many other projects!
 - SQL (basics)
 
 ## Reach me
-- LinkedIn: www.linkedin.com/in/ved-joshi-251105318
+- LinkedIn: https://www.linkedin.com/in/ved-joshi-dev
 - GitHub: https://github.com/vedjoshi-dev
-- Instagram: https://www.instagram.com/ved_frrr/
+- Instagram: https://www.instagram.com/ved_frrr
