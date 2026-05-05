@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of East Anglia, currently worki
 - Sustainability Web Application (full stack group project)
   - Built using HTML, CSS, JavaScript, Node.js, and Express
   - Implemented dynamic content loading using Fetch API and JSON
-  - Worked on both frontend and backend, including form handling
+  - Worked on both frontend and backend
 
 And many other projects!
 
@@ -16,7 +16,7 @@ And many other projects!
 - HTML & CSS
 - Java
 - Git & GitHub
-- SQL (basics)
+- SQL
 
 ## Reach me
 - LinkedIn: https://www.linkedin.com/in/ved-joshi-dev
